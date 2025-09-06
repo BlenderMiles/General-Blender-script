@@ -1,3 +1,6 @@
+# This script updates the render visibility of all objects and collections
+# in the current Blender scene to match their viewport visibility.
+
 import bpy
 
 def update_render_visibility():
