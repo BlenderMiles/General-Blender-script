@@ -2,7 +2,6 @@
 #It uses an iterative solver to adjust vertex positions based on their neighbors.
 #works best on Closed Meshes with mostly quads.
 #Usage: Select a SubD mesh object and run the script. A new object named "Cage" will be created.
-#might need to adjust the number of iterations for different meshes.
 # not ganteed to work on all meshes.
 
 import bpy
